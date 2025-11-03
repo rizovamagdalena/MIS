@@ -1,16 +1,14 @@
-# lab_exercise_1
+# 🎓 Lab Exercise 1: Exam Schedule App
 
-A new Flutter project for exam scheduling.
+This is a **Flutter project** for creating a simple **Exam Schedule App**.  
+The app is part of the first lab exercise for learning Flutter development. 🚀
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 Project Overview
 
-A few resources to get you started if this is your first Flutter project:
+The **Exam Schedule App** allows users to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🗓️ View a list of upcoming exams.
+- 🔍 See detailed information about each exam.
+- ⏱️ See whether the exam has passed or check how much time is left until an exam.
