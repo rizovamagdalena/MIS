@@ -1,4 +1,4 @@
-# 🎓 Meal Recipes App
+# 🍔🍕🥗 Meal Recipes App
 
 This is a Flutter project for creating a Meal Recipes App. It uses [TheMealDB API](https://www.themealdb.com/api.php) to fetch meal categories, recipes, and random meals.
 
